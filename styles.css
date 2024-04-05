@@ -1,0 +1,100 @@
+.container {
+    background-image: url('letitbe.jpg');
+    background-size: cover; /* Cover the entire container */
+    background-position: center; /* Center the background image */
+    background-repeat: no-repeat; /* Prevent repeating the background image */
+    padding: 20px;
+}
+
+.title{
+    text-align: center;
+    background-color: #60e1df;
+    padding: 20px;
+    background-image: url('texture.jpg'); /* Path to your texture image */
+    background-repeat: no-repeat; /* Repeat the texture */
+    background-size: cover; /* Cover the entire container */
+        font-family: "Montserrat Subrayada", sans-serif;
+        font-size: 25px;
+        font-style: normal;
+}
+
+.verse{
+    text-align: center;
+        font-family: "Dhurjati", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+    font-size: 46px;
+    background-image: linear-gradient(to right, #111be2, #00fff7, #19f805dd);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 2px 2px 4px rgba(237, 245, 5, 0.548);
+}
+
+.mother-mary{
+    background-image: linear-gradient(to right, #b3ff03, #ff8a14, #ee2805); /* Gradient background */
+    -webkit-background-clip: text; /* Clip text to background */
+    background-clip: text; /* Clip text to background */
+    color: transparent; /* Make text transparent */
+    font-weight: bold; /* Bold font weight */
+    font-size:70px;
+    font-family: "Averia Sans Libre", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.let-it-be{
+    font-family: "Averia Sans Libre", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.chorus{
+    text-align: center;
+        font-family: "Dhurjati", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+    font-size: 46px;
+    background-image: linear-gradient(to right, #111be2, #00fff7, #19f805dd);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 2px 2px 4px rgba(237, 245, 5, 0.548);
+}
+
+.let{
+    text-align: center;
+    color: #ee2805;
+    font-size: 50px;
+        font-family: "Sancreek", serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
+
+    .pl{
+
+            font-family: "Rancho", cursive;
+            font-weight: 500;
+            font-style: normal;
+            background-image: linear-gradient(to right, #ebeee4, #f59c9c, #ee0572); /* Gradient background */
+    -webkit-background-clip: text; /* Clip text to background */
+    background-clip: text; /* Clip text to background */
+    color: transparent; /* Make text transparent */
+        
+        }
+
+
+.outro{
+    text-align: center;
+    font-weight: bold; /* Bold font weight */
+    font-size:35px;
+    font-family: "Averia Sans Libre", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    background-image: linear-gradient(to right, #08f02f, #d6f107, #e2f700);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 2px 2px 4px rgba(243, 243, 243, 0.5);
+}
